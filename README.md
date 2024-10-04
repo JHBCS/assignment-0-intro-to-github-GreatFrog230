@@ -1,4 +1,4 @@
-# :wave: The Basics of Annalise
+# :wave: The Basics of Annalise 
 
 ## 🤓 Course overview and learning outcomes 
 
